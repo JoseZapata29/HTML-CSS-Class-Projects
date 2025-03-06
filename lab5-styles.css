@@ -1,0 +1,64 @@
+
+
+body {
+  font-family: sans-serif;
+
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+
+}
+
+h2 { 
+    font-size: 2rem;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+footer {
+
+    text-align: center;
+
+}
+
+p#transform-text{ 
+
+
+text-transform: capitalize;
+
+}
+
+p.text-shadow{
+
+text-shadow: 1px 1px 3px gray;
+
+} 
+
+p{
+
+    text-align: justify;
+    line-height: 1.6;
+
+}
+
+ul {
+
+list-style-type: square;
+
+}
+
+ol {
+
+    list-style-type: upper-roman;
+}
+
+li {
+
+    margin-bottom: 1rem;
+}
